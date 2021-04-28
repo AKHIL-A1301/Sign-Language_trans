@@ -155,16 +155,10 @@ pip install opencv-contrib-python==3.4.2.16
 
 ## Project Members
 
-AKHIK A - (UKP16cs006)
-[shadabsk](https://github.com/shadabsk)
+AKHIL A - (UKP16cs006)
+[Akhil](https://github.com/AKHIL-A1301)
 
-AKHIK A - (UKP16cs006)
-[shadabsk](https://github.com/shadabsk)
 
-AKHIK A - (UKP16cs006)
-[shadabsk](https://github.com/shadabsk)
 
-AKHIK A - (UKP16cs006)
-[shadabsk](https://github.com/shadabsk)
 
 
